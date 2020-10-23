@@ -1,0 +1,23 @@
+{
+    "uid": "mer_12345678",
+    "object": "merchant",
+    "created": 2345,
+    "updated": 4567,
+    "status": "pending",
+    "compliance": {
+        "level": 100,
+        "status": "verified",
+        "requirements": []
+    },
+    "type": "business",
+    "coc_nr": null,
+    "name": "Tinus Tester",
+    "vat_nr": null,
+    "country": "nld",
+    "sector": null,
+    "addresses": [],
+    "trading_names": [],
+    "contacts": [],
+    "profiles": [],
+    "payment_methods": []
+}
